@@ -9,3 +9,6 @@ Command:
     $ sudo apt-get update
     $ sudo apt-get install libmariadb-dev-compat
 
+
+### 참고 ###
+https://ubuntu.pkgs.org/18.04/ubuntu-universe-i386/libmariadb-dev-compat_3.0.3-1build1_i386.deb.html
